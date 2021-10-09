@@ -1,2 +1,4 @@
 input/*
 data/*
+trained_models/*
+.ipynb_checkpoints
